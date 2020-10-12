@@ -1,6 +1,6 @@
 ## ReactJS-Calculator 
 
-This is a simple arithmetic calculator.
+This is an arithmetic calculator.
 
 Run Commands:
 >npm install && npm start
